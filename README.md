@@ -8,5 +8,4 @@ Or
 ```
 tensorboard --logdir=<path/to/log-directory>
 ```
-![Alt text](ScreenShot1.png "title")
 ![Alt text](ScreenShot2.png "title")
