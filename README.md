@@ -8,5 +8,5 @@ Or
 ```
 tensorboard --logdir=<path/to/log-directory>
 ```
-![Alt text](NeuralNetworks/ScreenShot1.png "title")
-![Alt text](NeuralNetworks/ScreenShot2.png "title")
+![Alt text](ScreenShot1.png "title")
+![Alt text](ScreenShot2.png "title")
